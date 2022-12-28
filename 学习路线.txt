@@ -1,0 +1,26 @@
+从知乎追到闫府，再到B站！# Ray Trace 光线追踪
+- The Ray Tracing in One Weekend https://raytracing.github.io/
+- 【TypeScript 游乐园 - 光线追踪示例】(https://typescript-play.js.org/#example/building-a-raytracer)
+- smallpt: Global Illumination in 99 lines of C++ http://www.kevinbeason.com/smallpt/
+- https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/index.php
+- CS190I: Introduction to Offline Rendering Fall 2020 https://sites.cs.ucsb.edu/~lingqi/teaching/cs190I.html
+- CS291A: Real-Time High Quality Rendering Spring 2020 https://sites.cs.ucsb.edu/~lingqi/teaching/cs291a.html
+- OpenGL Programming Guide: The Official Guide to Learning OpenGL 4th
+- Eigen - C++ template library for linear algebra https://eigen.tuxfamily.org/index.php
+2021-02-13 04:1552回复
+紧果呗# 计算机图形学入门
+- Lingqi Yan (闫令琪) Assistant Professor https://sites.cs.ucsb.edu/~lingqi/
+- Steve Marschner and Peter Shirley, "Fundamentals of Computer Graphics", 3rd or later edition https://blog.csdn.net/bioinformatique/article/details/106160473
+- Tomas Akenine-Möller et al., "Real-Time Rendering", 3rd or later edition
+- https://sites.cs.ucsb.edu/~lingqi/teaching/resources/CS180_Winter2021_Lecture_02.pdf
+- GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
+- CS180 / CS280: Introduction to Computer Graphics Winter 2021 https://sites.cs.ucsb.edu/~lingqi/teaching/cs180.html
+- GAMES101-现代计算机图形学入门-闫令琪 GAMES101-现代计算机图形学入门-闫令琪
+
+Pre-requisites for the course:
+
+- 编程基础 C++ Programming, Algorithm, Data Structure
+- 数学基础 Basic mathematics，Linear algebra, calculus, statistics
+- 物理基础 Basic physics，Optics, Mechanics
+- 其它 Misc，Numerical analysis, signal processing
+- 一点美术 And a bit of aesthetics
